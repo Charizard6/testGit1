@@ -582,7 +582,7 @@ public class ReadJson {
             componentArray.add(IranObj);
             EcuadorObj.put("id","ec");
             EcuadorObj.put("accure",Ecuador);
-            componentArray.add(EnglandObj);
+            componentArray.add(EcuadorObj);
             MaltaObj.put("id","mt");
             MaltaObj.put("accure",Malta);
             componentArray.add(MaltaObj);
@@ -646,9 +646,6 @@ public class ReadJson {
             GreeceObj.put("id","gr");
             GreeceObj.put("accure",Greece);
             componentArray.add(GreeceObj);
-            GreeceObj.put("id","gr");
-            GreeceObj.put("accure",Greece);
-            componentArray.add(GreeceObj);
             IndiaObj.put("id","in");
             IndiaObj.put("accure",India);
             componentArray.add(IndiaObj);
@@ -681,7 +678,7 @@ public class ReadJson {
             componentArray.add(SlovakiaObj);
             LuxemBourgObj.put("id","lu");
             LuxemBourgObj.put("accure",LuxemBourg);
-            componentArray.add(SlovakiaObj);
+            componentArray.add(LuxemBourgObj);
             NepalObj.put("id","np");
             NepalObj.put("accure",Nepal);
             componentArray.add(NepalObj);
